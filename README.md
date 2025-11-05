@@ -5,7 +5,7 @@
 [![PHP Version](https://img.shields.io/packagist/php-v/weexduunx/laravel-aida-gateway.svg?style=flat-square)](https://packagist.org/packages/weexduunx/laravel-aida-gateway)
 [![Laravel Version](https://img.shields.io/badge/Laravel-10.x%20%7C%2011.x%20%7C%2012.x-FF2D20?style=flat-square&logo=laravel)](https://laravel.com)
 [![License](https://img.shields.io/packagist/l/weexduunx/laravel-aida-gateway.svg?style=flat-square)](https://packagist.org/packages/weexduunx/laravel-aida-gateway)
-![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/raw/master/assets/badge.svg)
+![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)
 
 Un package Laravel pour intégrer facilement les paiements Mobile Money (Orange Money, Wave, Free Money, E-money) avec une API unifiée.
 
